@@ -1,10 +1,10 @@
 ## Welcome to my website !
 
-Here you will find everything related to my projects !
+Here you will find everything related to my projects.
 
 ## First, a word about who i am:
 
-I am IT student currently studying mostly C at [42 Paris](42.fr).
+I am IT student currently studying mostly C at [42 Paris](https://42.fr).
 
 I enjoy everything tech related.
 
