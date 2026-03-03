@@ -16,6 +16,7 @@ I am deeply concerned about Open Source.
 
 ## Current projects:
 
-I started a open source [digital wellbeing app](https://github.com/lubenard/Digital_wellbeing).
+I started a open source [digital wellbeing app](https://github.com/lubenard/Digital_wellbeing), a [male contraception app](https://github.com/lubenard/oRing_Reminder) and others projets.
+Feel free to discover my Github, and feel free to contribute !
 
-Feel free to contribute !
+Lubenard
